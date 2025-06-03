@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on a Python project to create a breadboard. <br>
-👯 I’m looking to collaborate on Python or JavaScript projects<br>
-🤝 I’m looking for help with advanced data analysis techniques <br>
-🌱 I’m currently learning Git best practices and CI/CD<br>
+👯 I’m looking to collaborate on Python or Java projects.<br>
+🤝 I’m looking for working with new people. <br>
+🌱 I’m currently learning AWS.<br>
 💬 Ask me about Workouts on the gym.<br>
 ⚡ Fun fact Always skipping family trips for soccer games.
 
